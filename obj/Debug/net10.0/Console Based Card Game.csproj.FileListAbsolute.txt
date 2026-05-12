@@ -1,0 +1,28 @@
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.exe
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.deps.json
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.dll
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.pdb
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.dll
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\refint\Console Based Card Game.dll
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.pdb
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Console Based Card Game\Console Based Card Game\obj\Debug\net10.0\ref\Console Based Card Game.dll
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.exe
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.dll
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\bin\Debug\net10.0\Console Based Card Game.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.dll
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\refint\Console Based Card Game.dll
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\Console Based Card Game.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\CET 137 - Console Based Program\Program\Console Based Card Game\obj\Debug\net10.0\ref\Console Based Card Game.dll
